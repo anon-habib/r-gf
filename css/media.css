@@ -1,0 +1,235 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    .A-box1 {
+        height: 50px;
+        background-color: #146132;
+    }
+
+    .A-box2 {
+        height: 50px;
+        background-color: #912477;
+    }
+
+    .B-box1 {
+        height: 50px;
+        background-color: gainsboro;
+    }
+
+    .B-box2 {
+        height: 50px;
+        background-color: lightpink;
+    }
+
+    .device {
+        font-size: 16px;
+    }
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .A-box1 {
+        height: 60px;
+        background-color: #084364;
+    }
+
+    .A-box2 {
+        height: 60px;
+        background-color: #389480;
+    }
+
+    .B-box1 {
+        height: 60px;
+        background-color: tan;
+    }
+
+    .B-box2 {
+        height: 60px;
+        background-color: blue;
+    }
+
+    .device {
+        font-size: 18px;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .A-box1 {
+        height: 80px;
+        background-color: #034198;
+    }
+
+    .A-box2 {
+        height: 80px;
+        background-color: #9f81a5;
+    }
+
+    .B-box1 {
+        height: 80px;
+        background-color: #64402c;
+    }
+
+    .B-box2 {
+        height: 80px;
+        background-color: #36308a8e;
+    }
+
+    .device {
+        font-size: 20px;
+    }
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Extra Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    .A-box1 {
+        height: 120px;
+        background-color: #030198;
+    }
+
+    .A-box2 {
+        height: 120px;
+        background-color: #9f00a5;
+    }
+
+    .B-box1 {
+        height: 120px;
+        background-color: #66102c;
+    }
+
+    .B-box2 {
+        height: 120px;
+        background-color: #30300a8e;
+    }
+
+    .device {
+        font-size: 30px;
+    }
+
+}
+
+/* Extra Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+
+    .A-box1 {
+        height: 120px;
+        background-color: #656571;
+    }
+
+    .A-box2 {
+        height: 120px;
+        background-color: #369751;
+    }
+
+    .B-box1 {
+        height: 120px;
+        background-color: #624865;
+    }
+
+    .B-box2 {
+        height: 120px;
+        background-color: #448866;
+    }
+
+    .device {
+        font-size: 36px;
+    }
+
+}
+
+/* Custome Large devices (large desktops, 1600px and up) */
+@media (min-width: 1600px) and (max-width: 1899.98px) {
+
+    .A-box1 {
+        height: 130px;
+        background-color: #324975;
+    }
+
+    .A-box2 {
+        height: 130px;
+        background-color: #316975;
+    }
+
+    .B-box1 {
+        height: 130px;
+        background-color: #616671;
+    }
+
+    .B-box2 {
+        height: 130px;
+        background-color: #864610;
+    }
+
+    .device {
+        font-size: 40px;
+    }
+
+}
+
+/* Custome Extra Large devices (large desktops, 1900px and up) */
+@media (min-width: 1900px) and (max-width: 2099.98px) {
+
+    .A-box1 {
+        height: 140px;
+        background-color: #164285;
+    }
+
+    .A-box2 {
+        height: 140px;
+        background-color: #121406;
+    }
+
+    .B-box1 {
+        height: 140px;
+        background-color: #132246;
+    }
+
+    .B-box2 {
+        height: 140px;
+        background-color: #574613;
+    }
+
+    .device {
+        font-size: 44px;
+    }
+
+}
+
+/* Custome Extra Extra large devices (extra large desktops, 2100px and up) */
+@media (min-width: 2100px) {
+
+    .A-box1 {
+        height: 180px;
+        background-color: #645654;
+    }
+
+    .A-box2 {
+        height: 180px;
+        background-color: #302697;
+    }
+
+    .B-box1 {
+        height: 180px;
+        background-color: #799255;
+    }
+
+    .B-box2 {
+        height: 180px;
+        background-color: #319752;
+    }
+
+    .device {
+        font-size: 50px;
+    }
+
+}

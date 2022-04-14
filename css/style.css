@@ -1,0 +1,27 @@
+.A-box1 {
+    height: 100px;
+    background-color: red;
+}
+
+.A-box2 {
+    height: 100px;
+    background-color: green;
+}
+
+.B-box1 {
+    height: 100px;
+    background-color: gray;
+}
+
+.B-box2 {
+    height: 100px;
+    background-color: orange;
+}
+
+.m-100 {
+    margin: 100px 0;
+}
+
+.device {
+    font-size: 24px;
+}
